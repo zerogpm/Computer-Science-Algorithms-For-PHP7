@@ -11,7 +11,7 @@ Who is this for?
 
 If you're a computer science student who needs to learn this stuff for exams -- 
 or if you're a self-taught programmer who wants to brush up on the 
-theory behind your craft -- you've come to the right place!
+theory behind your craft -- you've come to the right place and enjoy!
 
 The goal of this project is to **explain how algorithms work**. 
 The focus is on clarity and readability of the code, 
